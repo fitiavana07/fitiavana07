@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I am Fitiavana Ramanandafy.
+
+I’m currently working on [tsk](https://github.com/fitiavana07/tsk), a simple productivy tool in the CLI, made with Go.
