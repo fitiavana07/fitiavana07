@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Hi, I am Fitiavana Ramanandafy.
 
-I’m currently working on [tsk](https://github.com/fitiavana07/tsk), a simple productivy tool in the CLI, made with Go.
+I’m currently working on [tsk](https://github.com/fitiavana07/tsk), a simple but effective CLI productivy tool.
