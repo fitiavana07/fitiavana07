@@ -1,6 +1,6 @@
 # Hi, I'm Fitiavana Ramanandafy 👋
 
-**Software Engineer** passionate about building robust and scalable solutions.
+**Software Engineer** passionate about building quality software.
 
 ---
 
